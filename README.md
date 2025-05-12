@@ -1,9 +1,4 @@
 
-Tabii! Aşağıda doğrudan kopyalayıp `README.md` dosyasına yapıştırabileceğin şekilde, **tam ve tek parça** bir içerik veriyorum:
-
----
-
-````markdown
 # 📊 Data Preprocessing
 
 This repository contains a Jupyter Notebook that demonstrates essential data preprocessing techniques such as cleaning, encoding, scaling, and transforming raw datasets — crucial steps before applying machine learning models.
@@ -96,17 +91,4 @@ git clone https://github.com/yourusername/data-preprocessing.git
 cd data-preprocessing
 pip install -r requirements.txt
 jupyter notebook Data_Preprocessing.ipynb
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Artık bunu doğrudan `README.md` dosyana yapıştırabilirsin. Gerekirse `requirements.txt` içeriğini de sağlayabilirim. Hazır mısın onu da ekleyeyim mi?
 ```
